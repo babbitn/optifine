@@ -731,12 +731,12 @@ of.options.SHOW_FPS.tooltip.5=  U: - lohkopäivitykset
 of.options.SHOW_FPS.tooltip.6=Kompaktit kuvataajuustiedot näytetään vain kun virheenkorjausruutu
 of.options.SHOW_FPS.tooltip.7=ei ole näkyvissä.
 
-of.options.save.45s=45s
-of.options.save.90s=90s
-of.options.save.3min=3min
-of.options.save.6min=6min
-of.options.save.12min=12min
-of.options.save.24min=24min
+of.options.save.45s=45 s
+of.options.save.90s=90 s
+of.options.save.3min=3 min
+of.options.save.6min=6 min
+of.options.save.12min=12 min
+of.options.save.24min=24 min
 
 of.options.AUTOSAVE_TICKS=Automaattinen tallennus
 of.options.AUTOSAVE_TICKS.tooltip.1=Automaattisen tallennuksen aikaväli
